@@ -3,7 +3,7 @@ build == 1.0.3
 ebcdic == 1.1.1; sys_platform != "zos"
 mkdocs-material == 9.2.8; python_version == "3.8"
 mkdocs-minify-plugin == 0.7.1; python_version == "3.8"
-mkdocstrings-python == 1.1.2; python_version == "3.8"
+mkdocstrings-python == 1.10.1; python_version == "3.8"
 pycodestyle == 2.10.0
 pylint == 2.17.5
 pytest == 7.4.2
